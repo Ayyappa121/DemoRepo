@@ -1,0 +1,20 @@
+/**Custom Styles**/
+@font-face {
+  font-family: "cambriab";
+  src: url("../fonts/cambriab.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/cambriab.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/cambriab.svg") format("svg"), /* Legacy iOS */
+    url("../fonts/cambriab.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/cambriab.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/cambriab.woff2") format("woff2"); /* Modern Browsers */
+  font-weight:bold;
+}
+
+
+
+
+
+
+
+
+	
